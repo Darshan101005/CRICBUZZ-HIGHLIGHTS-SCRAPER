@@ -41,7 +41,7 @@ This tool automatically fetches cricket match highlights from Cricbuzz based on 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Darshan101005/CRICBUZZ-HIGHLIGHTS-SCRAPER.git](https://github.com/Darshan101005/CRICBUZZ-HIGHLIGHTS-SCRAPER.git)
+    git clone https://github.com/Darshan101005/CRICBUZZ-HIGHLIGHTS-SCRAPER.git
     cd CRICBUZZ-HIGHLIGHTS-SCRAPER
     ```
 
